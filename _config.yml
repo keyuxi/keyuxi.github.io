@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuxi Ke"
 title_separator          : "-"
 name                     : &name "Yuxi Ke"
-description              : &description "PhD student at Stanford Univeristy"
+description              : &description "Bioengineering PhD student at Stanford Univeristy"
 url                      : https://keyuxi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "keyuxi/keyuxi.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuxi"
   avatar           : "profile.png"
-  bio              : "PhD student at Stanford university."
+  bio              : "Bioengineering PhD student at Stanford university."
   location         : "Stanford, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
